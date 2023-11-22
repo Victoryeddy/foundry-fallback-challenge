@@ -1,6 +1,6 @@
 # foundry-fallback-challenge
 
-#Tools Used`````````
+#Tools Used
 Foundry - A solidity Framework used for testing and deploying smart contracts
 
 #Motive
